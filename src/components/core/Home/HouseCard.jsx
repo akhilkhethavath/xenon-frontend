@@ -2,7 +2,7 @@ import axios from 'axios'
 import React, { useEffect, useState } from 'react'
 import ElmentCard from './ElmentCard'
 
-const BASE_URL = "http://localhost:3001/"
+const BASE_URL = "https://xenonstack-kzgg.onrender.com"
 
 const HouseCard = () => {
     const [data, setData] = useState(null)

@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3001"
+const BASE_URL = "https://xenonstack-kzgg.onrender.com/"
 
 export const endpoints = {
     LOGIN_API: BASE_URL+`/auth/login`,
